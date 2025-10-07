@@ -5,3 +5,10 @@
   list-style: none;
   text-decoration: none;
 }
+.container {
+  max-width: 1170px;
+}
+h2 {
+  size: 36px;
+  color: #212121;
+}
